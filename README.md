@@ -1,4 +1,4 @@
-# Java Console Audio Player 🎵
+# Java Console Audio Player
 
 A simple Java console-based audio player that plays a `.wav` audio file using the `javax.sound.sampled` package. Users can interact with the player via keyboard input to play, stop, reset, or quit.
 

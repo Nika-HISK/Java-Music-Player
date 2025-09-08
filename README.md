@@ -42,7 +42,7 @@ java Main
 | `R`     | 🔄 Reset playback |
 | `Q`     | ❌ Quit           |
 
-### 6. ⚙️ Customization
+### 6. Customization
 To play a different audio file:
 1. Replace Tomorrow.wav in the src/ folder with your own .wav file.
 2. Update the filePath in Main.java accordingly:

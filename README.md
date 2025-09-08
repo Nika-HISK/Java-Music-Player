@@ -4,16 +4,16 @@ A simple Java console-based audio player that plays a `.wav` audio file using th
 
 ## Features
 
-- 🔁 Play, stop, and reset `.wav` audio files
-- ⌨️ Interactive console-based UI
-- 🔊 Uses Java's built-in `javax.sound.sampled` API
+- Play, stop, and reset `.wav` audio files
+- Interactive console-based UI
+- Uses Java's built-in `javax.sound.sampled` API
 
 ## Requirements
 
 - Java 8 or later
 - `.wav` audio file (included or provided by user)
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone or Download the Project
 

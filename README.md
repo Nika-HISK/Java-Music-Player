@@ -39,8 +39,8 @@ java Main
 | ------- | ----------------- |
 | `P`     |     Play          |
 | `S`     |     Stop          |
-| `R`     | 🔄 Reset playback |
-| `Q`     | ❌ Quit           |
+| `R`     |    Reset playback |
+| `Q`     |    Quit           |
 
 ### 6. Customization
 To play a different audio file:

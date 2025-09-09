@@ -37,8 +37,8 @@ java Main
 
 | Command | Action            |
 | ------- | ----------------- |
-| `P`     | ▶️  Play          |
-| `S`     | ⏹️  Stop          |
+| `P`     |     Play          |
+| `S`     |     Stop          |
 | `R`     | 🔄 Reset playback |
 | `Q`     | ❌ Quit           |
 
